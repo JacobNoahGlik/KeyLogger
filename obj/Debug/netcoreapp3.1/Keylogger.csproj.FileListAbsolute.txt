@@ -1,0 +1,13 @@
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.csprojAssemblyReference.cache
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.AssemblyInfoInputs.cache
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.AssemblyInfo.cs
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.csproj.CoreCompileInputs.cache
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\Keylogger.genruntimeconfig.cache
+D:\Users\Jacob Glik\source\repos\Keylogger\bin\Debug\netcoreapp3.1\backgrounddsll.exe
+D:\Users\Jacob Glik\source\repos\Keylogger\bin\Debug\netcoreapp3.1\backgrounddsll.deps.json
+D:\Users\Jacob Glik\source\repos\Keylogger\bin\Debug\netcoreapp3.1\backgrounddsll.runtimeconfig.json
+D:\Users\Jacob Glik\source\repos\Keylogger\bin\Debug\netcoreapp3.1\backgrounddsll.runtimeconfig.dev.json
+D:\Users\Jacob Glik\source\repos\Keylogger\bin\Debug\netcoreapp3.1\backgrounddsll.dll
+D:\Users\Jacob Glik\source\repos\Keylogger\bin\Debug\netcoreapp3.1\backgrounddsll.pdb
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\backgrounddsll.dll
+D:\Users\Jacob Glik\source\repos\Keylogger\obj\Debug\netcoreapp3.1\backgrounddsll.pdb
