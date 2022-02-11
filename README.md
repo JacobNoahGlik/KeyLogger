@@ -12,7 +12,7 @@ Steps
 2. Save keystrokes to textfile
 3. Send file as email to attacker periodicly and restart the cycle
    - Using an email proxy account that auto forwards emails to the correct address to distance the attacker from the keylogger
-         - The distance can be further imrpoved by encrypting the email as the proxy and forwarding it to 25,000 random emails including the attackers email who can decrypt the email
+     - The distance can be further imrpoved by encrypting the email as the proxy and forwarding it to 25,000 random emails including the attackers email who can decrypt the email
 5. Information Obstruction
    - Run in the bacground as a process
    - Rename to a random common windows process
