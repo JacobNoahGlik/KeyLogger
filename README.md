@@ -1,7 +1,7 @@
 # KeyLogger
 ###### Summary: Get the victim's keystrokes 
 
-Note: *I, Jacob Glik, do not approbate malicious use of this program for any reason.*
+### Note: *I, Jacob Glik, do not approbate malicious use of this program for any reason.*
 **WARNING: KeyLogging is a criminal offense**. It is **ILLIGAL**! **Do not** use or run this code on anyone else's machine unless granted explicit permission.
 
 <br>
