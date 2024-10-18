@@ -1,13 +1,14 @@
 # KeyLogger
+###### Summary: Get the victim's keystrokes 
 
 Note: *I, Jacob Glik, do not approbate malicious use of this program for any reason.*
 **WARNING: KeyLogging is a criminal offense**. It is **ILLIGAL**! **Do not** use or run this code on anyone else's machine unless granted explicit permission.
 
-Summary: Get the victim's keystrokes 
+<br>
 
 Note: The `getPassword()` and `getEmail()` function definitions have been removed from this code to keep the email, password, and encrypted counterparts secret.
 
-Steps
+## Steps
 1. Get keystrokes from the operating system
 2. Save keystrokes to textfile
 3. Send the file as an email to the attacker periodically and restart the cycle
